@@ -13,7 +13,7 @@ import org.http4k.template.TemplateRenderer
 import org.http4k.template.ViewModel
 
 
-val bundles = "build/classes/main/templates/complate"
+val bundles = "build/classes/main/templates/views"
 
 data class Person(val name: String, val age: Int) : ViewModel
 
