@@ -1,11 +1,7 @@
 # complate sample using HTTP4k
 
 [![Build Status](https://travis-ci.org/complate/complate-sample-http4k.svg?branch=master)](https://travis-ci.org/complate/complate-sample-http4k)
-
-(!) NOTE: this does not work at the moment, as the [complate-http4k](https://github.com/complate/complate-http4k) adapter
-is not published to a public repository. 
-  
-  
+    
 This sample demonstrates the usage of [complate](https://github.com/complate) as a templating engine for 
 [HTTP4K](https://http4k.org) (a Kotlin based HTTP toolkit). Therefore, this demo project makes use of the 
 [complate-http4k](https://github.com/complate/complate-http4k) adapter.
