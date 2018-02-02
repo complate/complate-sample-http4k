@@ -1,5 +1,7 @@
 # complate sample using HTTP4k
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/complate/complate-sample-http4k.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/complate/complate-sample-http4k.svg?branch=master)](https://travis-ci.org/complate/complate-sample-http4k)
     
 This sample demonstrates the usage of [complate](https://github.com/complate) as a templating engine for 
