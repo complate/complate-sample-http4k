@@ -5,10 +5,10 @@
 		"compile": "faucet --no-fingerprint --compact"
 	},
 	"dependencies": {
-		"complate-stream": "^0.13.1"
+		"complate-stream": "^0.15.0"
 	},
 	"devDependencies": {
 		"eslint-config-fnd-jsx": "^1.1.0",
-		"faucet-pipeline-jsx": "^0.10.1"
+		"faucet-pipeline-jsx": "^0.11.0"
 	}
 }
